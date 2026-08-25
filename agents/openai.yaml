@@ -1,0 +1,4 @@
+interface:
+  display_name: "中国劳动合同证据链审计"
+  short_description: "分析中国劳动合同纠纷证据覆盖、冲突、举证责任与补证缺口"
+  default_prompt: "使用 $audit-chinese-labor-evidence-chain-skill 分析这起中国劳动合同纠纷的证据链并生成 XLSX 报告。"
