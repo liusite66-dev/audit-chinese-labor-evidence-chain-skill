@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*.xlsx
+*.md.tmp
+.labor-evidence-audit-workspace
+EVOLUTION.md
